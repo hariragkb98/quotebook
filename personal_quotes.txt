@@ -1,6 +1,4 @@
 strength through struggle= choi
-<<<<<<< HEAD
+
 i love green-ha
-=======
-i love yellow-ha
->>>>>>> personal_color
+
